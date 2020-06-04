@@ -1,6 +1,6 @@
 # radio_at_bus_stop
 
-A new Flutter project.
+Step by step penyusunann project bisa kalian lihat di Youtube Playlist: https://bit.ly/project_stream_radio_playlist
 
 ## Getting Started
 
